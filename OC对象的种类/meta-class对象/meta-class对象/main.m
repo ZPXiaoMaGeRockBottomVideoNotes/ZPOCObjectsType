@@ -56,6 +56,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
+        
         /**
          获取instance对象：
          下面获取到的两个instance对象是不同的两个对象。
