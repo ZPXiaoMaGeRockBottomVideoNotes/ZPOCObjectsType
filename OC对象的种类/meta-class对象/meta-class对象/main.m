@@ -35,7 +35,7 @@
  
  备注：
  1、instance对象的isa指针指向class对象；
- 2、clas对象的isa指针指向meta-class对象；
+ 2、class对象的isa指针指向meta-class对象；
  3、meta-class对象的isa指针指向NSObject（基类）的meta-class对象。
  */
 #import <Foundation/Foundation.h>
